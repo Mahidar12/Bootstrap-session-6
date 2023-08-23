@@ -1,0 +1,156 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: antiquewhite;
+ }
+ .container{
+  width: 1300px;
+  margin: auto;
+ }
+  img{
+width: 125px;
+height: 30px;
+  }
+   
+
+.row{
+  display:flex;
+  flex-wrap: wrap;
+  
+}
+.c{
+  padding-left:  260px;
+  padding-top: 15px; 
+ 
+ 
+}
+
+.l{
+  padding-top: 15px;
+  padding-left: 40px;
+}
+
+.p{
+  padding: 10px;
+  padding-right: 15px;
+}
+
+.w{
+  padding-top: 15px;
+  padding-left: 70px;
+}
+.x{
+  background-color:#09bb3fcb;
+  border-color: rgb(0, 128, 49);
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-left: 27px;
+  padding-bottom: 15px;
+  border-radius: 40px;
+  
+  
+  
+
+}
+.a{
+  border: 100px;
+}
+ .y{
+  width: 1190px;
+  height: auto;
+  padding-right: 15px;
+  border-radius: 50px;
+ }
+ .z{
+  padding-top: 25px;
+  padding-left: 15px;
+ }
+ .t{
+  width:500px ;
+  height: auto;
+  position: relative;
+  bottom: 350px;
+  left: 660px;
+ }
+ .z{
+  padding: bottom 100px; ;
+ }
+ .r{
+  width: 475px;
+height: 65px;
+  position: relative;
+  bottom: 655px;
+  right: -155px;
+ }
+ .d{
+  position: relative;
+  bottom: 950px;
+  right: -650px;
+  width: 485px;
+  height:50px ;
+ }
+ .e{
+  width: 450px;
+  height: auto;
+  position: relative;
+  bottom:835px;
+  left: 155px;
+ }
+ .g{
+  position: relative;
+  bottom: 750px;
+  font-size: 30px;
+  line-height: 80%;
+  color: #ffffff;
+ }
+ .j{
+  position: relative;
+  bottom: 120px;
+  left:140px;
+  line: height 500px; 
+   
+ }
+ .ab{
+  position: relative;
+  bottom: 870px;
+  left: 140px;
+   line-height: 10px;
+  color:white
+ 
+ }
+   
+  .pj{
+    background-color:#09bb3fcb;
+    border-color: rgb(0, 128, 49);
+    position: relative;
+    bottom: 850px;
+  left: 135px;
+  width: 230px;
+  font-size: 20px;
+  border-radius: 50px;
+  
+ 
+  }
+  header:hover:{
+    color:#09bb3fcb;
+  }
+  .c:hover{
+    color:#09bb3fcb;
+  }
+  .l:hover{
+    color:#09bb3fcb;
+  }
+  .w:hover{
+    color:#09bb3fcb;
+  }
+  .c:hover{
+    color:#09bb3fcb;
+  }
+   
+  
+  
+  .x:hover{
+    color:#09bb3fcb;
+  }
+  .oa:hover{
+    color:#09bb3fcb;  
+  }
